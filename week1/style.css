@@ -1,0 +1,19 @@
+body{
+    background-color: blanchedalmond;
+     font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    color:blueviolet;
+    font-size: 35px
+}
+h3 {
+    color:rgb(104, 47, 104);
+    font-size: 28px;
+}
+h1{
+    color: purple;
+    font-size: 40px;
+}
+a{
+    color:rgb(204, 71, 204);
+}

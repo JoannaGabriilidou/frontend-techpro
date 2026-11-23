@@ -2,14 +2,37 @@
 h1 {
     color: darkblue;
     font-size: 24px;
-    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
-
 body{
     background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
 }
 p{
-    color :blueviolet;
-    font-size: 20px;
+    color :red;   
+}
+.warning{
+    color:orangered;
+}
+#secondDescription{
+    color:green;
+}
+#menu{
+    color:gray;
+}
+li {
+    color: blue;
+}
+.nav li {
+    color: orange;
+}
+.item {
+    color: green;
+}
+.active{
+    color:red;
+}
+.item.active{
+    color: purple;
 }
