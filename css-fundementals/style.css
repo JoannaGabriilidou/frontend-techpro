@@ -1,0 +1,15 @@
+/* make all main headings dark blue and larger*/
+h1 {
+    color: darkblue;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+p{
+    color :blueviolet;
+    font-size: 20px;
+}
